@@ -36,6 +36,6 @@ public class MainActivity extends AppCompatActivity {
         if(!(check1.isChecked()) && check2.isChecked())
             cl.setBackgroundColor(Color.RED);
         if(!(check1.isChecked()) && !(check2.isChecked()))
-            cl.setBackgroundColor(Color.rgb(245,123,250));
+            cl.setBackgroundColor(Color.rgb(245,123,251));
     }
 }
